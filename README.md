@@ -14,4 +14,4 @@ No Jupyter Notebook comece por:
 - **Perfil Mensal** = perfil_fundos/perfil/profile/funds_profile
 - **Informação Cadastral** = cadastro_fundos/cadastro/register/funds_register
 
-Veja exemplos de uso em CVM_Fundos.ipynb.
+Veja alguns exemplos de uso em CVM_Fundos.ipynb.
